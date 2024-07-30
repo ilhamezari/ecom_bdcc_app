@@ -1,7 +1,7 @@
 package net.mezari.inventoryservice.web;
 
-import net.youssfi.inventoryservice.entities.Product;
-import net.youssfi.inventoryservice.repository.ProductRepository;
+import net.mezari.inventoryservice.entities.Product;
+import net.mezari.inventoryservice.repository.ProductRepository;
 import org.springframework.security.core.Authentication;
 
 import java.util.List;
